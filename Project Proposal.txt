@@ -1,0 +1,15 @@
+8. College Management System:
+This project consists in developing a DB and related software applications to handle the information needs of an academic institution or college.
+
+
+In any major academic institution or college, there is a DB system containing information about students, 
+their major and minor fields, the courses they are enrolled in, details about the students’ financial aids, 
+the classes each student has taken in previous years or is taking the current year,
+and details of all student examination results.
+
+
+The DB may also contain details related to the next academic year’s admissions,
+as well as details concerning faculty and staff with salary related information concerning the payroll office, etc.
+
+
+Additional information needs/functionalities can (should) be investigated by the student group
